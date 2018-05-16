@@ -1,0 +1,9 @@
+20180516 09:57:11.077 [restartedMain] INFO  ar.com.dag.Application - Starting Application on yo-PC with PID 1164 (C:\Users\yo\Documents\ProyectosEclipse\ws\target\classes started by yo in C:\Users\yo\Documents\ProyectosEclipse\ws)
+20180516 09:57:11.094 [restartedMain] INFO  ar.com.dag.Application - No active profile set, falling back to default profiles: default
+20180516 09:57:38.492 [restartedMain] INFO  ar.com.dag.Application - Started Application in 29.911 seconds (JVM running for 34.976)
+20180516 09:59:41.893 [http-nio-8080-exec-6] INFO  ar.com.dag.recurso.ProductoRecurso - guetting all productos
+20180516 09:59:43.258 [http-nio-8080-exec-6] DEBUG org.hibernate.SQL - select producto0_.id as id1_0_, producto0_.cantidad as cantidad2_0_, producto0_.nombre as nombre3_0_, producto0_.precio as precio4_0_ from producto producto0_
+20180516 09:59:43.396 [http-nio-8080-exec-6] INFO  ar.com.dag.recurso.ProductoRecurso - productos founds
+20180516 10:01:29.822 [http-nio-8080-exec-10] INFO  ar.com.dag.recurso.ProductoRecurso - guetting all productos
+20180516 10:01:29.827 [http-nio-8080-exec-10] DEBUG org.hibernate.SQL - select producto0_.id as id1_0_, producto0_.cantidad as cantidad2_0_, producto0_.nombre as nombre3_0_, producto0_.precio as precio4_0_ from producto producto0_
+20180516 10:01:29.943 [http-nio-8080-exec-10] INFO  ar.com.dag.recurso.ProductoRecurso - productos founds

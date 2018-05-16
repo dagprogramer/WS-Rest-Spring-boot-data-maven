@@ -1,0 +1,9 @@
+ar\com\dag\Application.class
+ar\com\dag\recurso\request\ProductoRequest.class
+ar\com\dag\repositorio\ProductoRepositorio.class
+ar\com\dag\recurso\response\MensajeResponse.class
+ar\com\dag\servicio\configuracion\ServicioConfiguracion.class
+ar\com\dag\recurso\ProductoRecurso.class
+ar\com\dag\servicio\ProductoServicio.class
+ar\com\dag\modelo\Producto.class
+ar\com\dag\recurso\response\ProductoResponse.class
